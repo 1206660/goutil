@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/gamecat/cache2go"
+	"cache2go"
 	"github.com/name5566/leaf/log"
 	"github.com/name5566/leaf/util"
 	"io/ioutil"

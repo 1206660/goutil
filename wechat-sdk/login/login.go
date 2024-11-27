@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/gamecat/wechat-sdk/common"
-	"github.com/gamecat/wechat-sdk/utils"
+	"wechat-sdk/common"
+	"wechat-sdk/utils"
 )
 
 type (

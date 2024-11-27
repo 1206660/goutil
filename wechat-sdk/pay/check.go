@@ -3,7 +3,7 @@ package pay
 import (
 	"strconv"
 
-	"github.com/gamecat/wechat-sdk/utils"
+	"wechat-sdk/utils"
 )
 
 type (

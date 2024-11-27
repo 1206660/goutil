@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/gamecat/wechat-sdk/common"
-	"github.com/gamecat/wechat-sdk/utils"
+	"wechat-sdk/common"
+	"wechat-sdk/utils"
 )
 
 type (

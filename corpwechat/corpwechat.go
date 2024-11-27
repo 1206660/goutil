@@ -3,8 +3,8 @@ package corpwechat
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gamecat/cache2go"
-	"github.com/gamecat/wechat-sdk/utils"
+	"cache2go"
+	"wechat-sdk/utils"
 	"github.com/name5566/leaf/log"
 	"time"
 )

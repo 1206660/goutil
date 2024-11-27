@@ -2,7 +2,7 @@ package config
 
 import (
 	"github.com/fsnotify/fsnotify"
-	"github.com/gamecat/configPath"
+	"configPath"
 	"github.com/name5566/leaf/log"
 	"github.com/name5566/leaf/util"
 	"strings"

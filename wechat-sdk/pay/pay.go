@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"encoding/xml"
-	"github.com/gamecat/wechat-sdk/utils"
+	"wechat-sdk/utils"
 )
 
 type (
